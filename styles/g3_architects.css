@@ -40,6 +40,7 @@
 /* headre styles */
 .navbar,.banner{
   max-width: 1440px;
+  margin: 0 auto;
 
 }
 /* nav bar releted style */
@@ -79,6 +80,7 @@
   font-size: 1rem;
   font-style: normal;
   font-weight: 400;
+  margin-bottom: 32px;
 }
 .banner-image{
   max-width: 100%;
